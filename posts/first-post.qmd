@@ -1,0 +1,13 @@
+---
+title: "Why Stochastic Processes Appear Everywhere"
+date: 2026-03-14
+categories: [stochastic-processes, finance]
+---
+
+Test page
+
+$$
+dS_t = \mu S_t dt + \sigma S_t dW_t
+$$
+
+Test page
